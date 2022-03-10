@@ -1,0 +1,38 @@
+
+$purple-400: #6f42c1;
+
+nav {
+
+    a {
+        text-transform: capitalize;
+    }
+  
+    i {
+        color: #ffffff;
+        
+    }
+    .navbar-brand {
+        margin-left: 30px;
+        font-size: 30px;
+    }
+    .navbar-toggler {
+        border: none;
+        font-size: 25px;
+    }
+    .navbar-toggler:focus{
+        box-shadow: none;
+    }  
+}
+.landing {
+    background-color:$purple-400 ;
+    min-height: calc(100vh - 72px);
+} 
+     
+
+  
+    
+  
+
+
+
+
